@@ -1,0 +1,14 @@
+D:\Semester\Sem 7\dotNetLab\bin\Debug\net8.0\dotNetLab.exe
+D:\Semester\Sem 7\dotNetLab\bin\Debug\net8.0\dotNetLab.deps.json
+D:\Semester\Sem 7\dotNetLab\bin\Debug\net8.0\dotNetLab.runtimeconfig.json
+D:\Semester\Sem 7\dotNetLab\bin\Debug\net8.0\dotNetLab.dll
+D:\Semester\Sem 7\dotNetLab\bin\Debug\net8.0\dotNetLab.pdb
+D:\Semester\Sem 7\dotNetLab\obj\Debug\net8.0\dotNetLab.GeneratedMSBuildEditorConfig.editorconfig
+D:\Semester\Sem 7\dotNetLab\obj\Debug\net8.0\dotNetLab.AssemblyInfoInputs.cache
+D:\Semester\Sem 7\dotNetLab\obj\Debug\net8.0\dotNetLab.AssemblyInfo.cs
+D:\Semester\Sem 7\dotNetLab\obj\Debug\net8.0\dotNetLab.csproj.CoreCompileInputs.cache
+D:\Semester\Sem 7\dotNetLab\obj\Debug\net8.0\dotNetLab.dll
+D:\Semester\Sem 7\dotNetLab\obj\Debug\net8.0\refint\dotNetLab.dll
+D:\Semester\Sem 7\dotNetLab\obj\Debug\net8.0\dotNetLab.pdb
+D:\Semester\Sem 7\dotNetLab\obj\Debug\net8.0\dotNetLab.genruntimeconfig.cache
+D:\Semester\Sem 7\dotNetLab\obj\Debug\net8.0\ref\dotNetLab.dll
