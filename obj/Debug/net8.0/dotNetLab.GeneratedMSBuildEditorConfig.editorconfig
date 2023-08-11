@@ -8,5 +8,5 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = dotNetLab
-build_property.ProjectDir = D:\Semester\Sem 7\dotNetLab\
+build_property.ProjectDir = d:\Semester\Sem 7\dotNetLab\
 build_property.EnableComHosting = 

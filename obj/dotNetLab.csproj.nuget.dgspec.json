@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Semester\\Sem 7\\dotNetLab\\dotNetLab.csproj": {}
+    "d:\\Semester\\Sem 7\\dotNetLab\\dotNetLab.csproj": {}
   },
   "projects": {
-    "D:\\Semester\\Sem 7\\dotNetLab\\dotNetLab.csproj": {
+    "d:\\Semester\\Sem 7\\dotNetLab\\dotNetLab.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Semester\\Sem 7\\dotNetLab\\dotNetLab.csproj",
+        "projectUniqueName": "d:\\Semester\\Sem 7\\dotNetLab\\dotNetLab.csproj",
         "projectName": "dotNetLab",
-        "projectPath": "D:\\Semester\\Sem 7\\dotNetLab\\dotNetLab.csproj",
+        "projectPath": "d:\\Semester\\Sem 7\\dotNetLab\\dotNetLab.csproj",
         "packagesPath": "C:\\Users\\Harsh\\.nuget\\packages\\",
-        "outputPath": "D:\\Semester\\Sem 7\\dotNetLab\\obj\\",
+        "outputPath": "d:\\Semester\\Sem 7\\dotNetLab\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Harsh\\AppData\\Roaming\\NuGet\\NuGet.Config"
